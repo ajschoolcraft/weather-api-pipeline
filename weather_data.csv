@@ -1,61 +1,61 @@
 zip_code,city,region,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,California,2026-08-27,88.9,70.0,Smoky haze
-90045,Los Angeles,California,2026-08-28,85.5,75.3,Smoky haze
-90045,Los Angeles,California,2026-08-29,82.9,74.2,Sunny
-10001,New York,New York,2026-08-27,85.5,68.9,Overcast
-10001,New York,New York,2026-08-28,88.7,71.7,Overcast
-10001,New York,New York,2026-08-29,82.2,69.9,Overcast
-60601,Chicago,Illinois,2026-08-27,76.1,67.8,Sunny
-60601,Chicago,Illinois,2026-08-28,80.8,67.5,Sunny
-60601,Chicago,Illinois,2026-08-29,82.4,66.6,Overcast
-98101,Seattle,Washington,2026-08-27,74.6,60.1,Overcast
-98101,Seattle,Washington,2026-08-28,69.6,57.2,Patchy rain nearby
-98101,Seattle,Washington,2026-08-29,69.3,54.8,Overcast
-33101,Miami,Florida,2026-08-27,92.5,79.5,Sunny
-33101,Miami,Florida,2026-08-28,89.5,84.7,Sunny
-33101,Miami,Florida,2026-08-29,89.8,85.4,Patchy rain nearby
-77002,Houston,Texas,2026-08-27,103.8,77.1,Sunny
-77002,Houston,Texas,2026-08-28,98.9,77.5,Sunny
-77002,Houston,Texas,2026-08-29,99.6,80.9,Sunny
-85001,Phoenix,Arizona,2026-08-27,111.0,87.1,Dust haze
-85001,Phoenix,Arizona,2026-08-28,107.3,92.9,Dust haze
-85001,Phoenix,Arizona,2026-08-29,99.6,86.2,Dust haze
-19103,Philadelphia,Pennsylvania,2026-08-27,88.9,68.9,Overcast
-19103,Philadelphia,Pennsylvania,2026-08-28,87.7,67.9,Overcast
-19103,Philadelphia,Pennsylvania,2026-08-29,82.5,68.3,Overcast
-78205,San Antonio,Texas,2026-08-27,108.1,79.0,Sunny
-78205,San Antonio,Texas,2026-08-28,98.7,76.8,Sunny
-78205,San Antonio,Texas,2026-08-29,99.7,76.6,Sunny
-92101,San Diego,California,2026-08-27,82.6,69.6,Overcast
-92101,San Diego,California,2026-08-28,80.3,75.3,Sunny
-92101,San Diego,California,2026-08-29,78.5,73.9,Sunny
-75201,Dallas,Texas,2026-08-27,102.6,78.8,Sunny
-75201,Dallas,Texas,2026-08-28,104.8,81.6,Sunny
-75201,Dallas,Texas,2026-08-29,105.3,83.5,Sunny
-95113,San Jose,California,2026-08-27,92.9,59.9,Overcast
-95113,San Jose,California,2026-08-28,87.7,60.3,Overcast
-95113,San Jose,California,2026-08-29,85.8,55.4,Sunny
-78701,Austin,Texas,2026-08-27,107.6,81.0,Sunny
-78701,Austin,Texas,2026-08-28,101.3,77.8,Sunny
-78701,Austin,Texas,2026-08-29,102.3,78.3,Sunny
-32801,Orlando,Florida,2026-08-27,95.2,72.7,Light rain
-32801,Orlando,Florida,2026-08-28,95.5,76.4,Sunny
-32801,Orlando,Florida,2026-08-29,97.5,78.1,Overcast
-80202,Denver,Colorado,2026-08-27,90.6,67.4,Sunny
-80202,Denver,Colorado,2026-08-28,96.2,71.5,Overcast
-80202,Denver,Colorado,2026-08-29,93.2,68.7,Overcast
-02108,Boston,Massachusetts,2026-08-27,85.8,61.7,Overcast
-02108,Boston,Massachusetts,2026-08-28,84.4,68.0,Light rain shower
-02108,Boston,Massachusetts,2026-08-29,74.1,64.2,Overcast
-97201,Portland,Oregon,2026-08-27,78.5,56.8,Sunny
-97201,Portland,Oregon,2026-08-28,79.4,55.9,Sunny
-97201,Portland,Oregon,2026-08-29,71.6,57.3,Sunny
-89101,Las Vegas,Nevada,2026-08-27,110.8,86.2,Overcast
-89101,Las Vegas,Nevada,2026-08-28,99.2,83.5,Overcast
-89101,Las Vegas,Nevada,2026-08-29,95.1,83.3,Sunny
-37201,Nashville,Tennessee,2026-08-27,95.7,67.6,Overcast
-37201,Nashville,Tennessee,2026-08-28,88.5,68.9,Sunny
-37201,Nashville,Tennessee,2026-08-29,92.7,69.7,Sunny
-30303,Atlanta,Georgia,2026-08-27,89.8,71.8,Overcast
-30303,Atlanta,Georgia,2026-08-28,87.3,70.6,Overcast
-30303,Atlanta,Georgia,2026-08-29,89.2,71.2,Overcast
+90045,Los Angeles,California,2026-08-28,91.9,68.4,Sunny
+90045,Los Angeles,California,2026-08-29,82.2,75.1,Overcast
+90045,Los Angeles,California,2026-08-30,79.0,71.1,Sunny
+10001,New York,New York,2026-08-28,86.9,68.7,Light drizzle
+10001,New York,New York,2026-08-29,83.4,65.9,Sunny
+10001,New York,New York,2026-08-30,86.8,70.7,Overcast
+60601,Chicago,Illinois,2026-08-28,80.6,69.4,Sunny
+60601,Chicago,Illinois,2026-08-29,77.0,65.0,Overcast
+60601,Chicago,Illinois,2026-08-30,86.1,69.4,Overcast
+98101,Seattle,Washington,2026-08-28,72.9,57.0,Overcast
+98101,Seattle,Washington,2026-08-29,70.9,53.9,Light rain shower
+98101,Seattle,Washington,2026-08-30,65.6,54.0,Patchy rain nearby
+33101,Miami,Florida,2026-08-28,96.3,77.9,Sunny
+33101,Miami,Florida,2026-08-29,89.9,85.0,Patchy rain nearby
+33101,Miami,Florida,2026-08-30,89.9,85.7,Light rain shower
+77002,Houston,Texas,2026-08-28,101.3,78.3,Patchy rain nearby
+77002,Houston,Texas,2026-08-29,99.2,80.8,Sunny
+77002,Houston,Texas,2026-08-30,95.5,80.4,Sunny
+85001,Phoenix,Arizona,2026-08-28,116.4,89.1,Overcast
+85001,Phoenix,Arizona,2026-08-29,104.6,84.8,Sunny
+85001,Phoenix,Arizona,2026-08-30,99.9,78.5,Patchy rain nearby
+19103,Philadelphia,Pennsylvania,2026-08-28,86.9,66.6,Overcast
+19103,Philadelphia,Pennsylvania,2026-08-29,83.0,65.7,Sunny
+19103,Philadelphia,Pennsylvania,2026-08-30,88.7,68.0,Sunny
+78205,San Antonio,Texas,2026-08-28,99.3,73.7,Sunny
+78205,San Antonio,Texas,2026-08-29,96.2,75.1,Sunny
+78205,San Antonio,Texas,2026-08-30,98.4,75.3,Sunny
+92101,San Diego,California,2026-08-28,94.6,67.1,Smoky haze
+92101,San Diego,California,2026-08-29,80.1,74.7,Sunny
+92101,San Diego,California,2026-08-30,75.7,72.4,Sunny
+75201,Dallas,Texas,2026-08-28,105.6,79.0,Sunny
+75201,Dallas,Texas,2026-08-29,103.5,82.5,Sunny
+75201,Dallas,Texas,2026-08-30,102.2,82.3,Sunny
+95113,San Jose,California,2026-08-28,83.3,61.3,Patchy rain nearby
+95113,San Jose,California,2026-08-29,87.8,55.6,Sunny
+95113,San Jose,California,2026-08-30,84.5,51.9,Sunny
+78701,Austin,Texas,2026-08-28,105.4,75.6,Patchy rain nearby
+78701,Austin,Texas,2026-08-29,99.4,76.9,Sunny
+78701,Austin,Texas,2026-08-30,101.0,76.7,Sunny
+32801,Orlando,Florida,2026-08-28,95.1,72.7,Sunny
+32801,Orlando,Florida,2026-08-29,97.6,78.9,Sunny
+32801,Orlando,Florida,2026-08-30,94.1,77.0,Light rain shower
+80202,Denver,Colorado,2026-08-28,95.3,71.3,Overcast
+80202,Denver,Colorado,2026-08-29,93.7,73.3,Overcast
+80202,Denver,Colorado,2026-08-30,82.9,72.9,Overcast
+02108,Boston,Massachusetts,2026-08-28,85.1,66.9,Overcast
+02108,Boston,Massachusetts,2026-08-29,74.6,61.2,Sunny
+02108,Boston,Massachusetts,2026-08-30,86.0,60.9,Sunny
+97201,Portland,Oregon,2026-08-28,79.9,56.8,Sunny
+97201,Portland,Oregon,2026-08-29,69.7,53.8,Sunny
+97201,Portland,Oregon,2026-08-30,74.7,53.4,Partly Cloudy
+89101,Las Vegas,Nevada,2026-08-28,106.5,83.8,Overcast
+89101,Las Vegas,Nevada,2026-08-29,94.8,81.9,Overcast
+89101,Las Vegas,Nevada,2026-08-30,92.8,80.1,Sunny
+37201,Nashville,Tennessee,2026-08-28,91.8,68.4,Sunny
+37201,Nashville,Tennessee,2026-08-29,95.1,71.6,Sunny
+37201,Nashville,Tennessee,2026-08-30,94.2,72.9,Sunny
+30303,Atlanta,Georgia,2026-08-28,89.7,72.1,Overcast
+30303,Atlanta,Georgia,2026-08-29,87.2,71.2,Patchy rain nearby
+30303,Atlanta,Georgia,2026-08-30,90.8,70.8,Partly Cloudy
